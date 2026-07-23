@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi, I'm Chiazor Daniel 👋
-### _Full-Stack Developer & AI Automation Specialist_
+### _Full-Stack Developer & AI Automation
 
 <img src="https://komarev.com/ghpvc/?username=chiazor-daniel&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 
